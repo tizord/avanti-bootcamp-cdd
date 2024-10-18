@@ -1,10 +1,12 @@
-# <Título do projeto>
+# Análise do conjunto de dados do Titanic
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este projeto tem como objetivo prever os sobreviventos do Titanic afim de estudar conceitos básicos de aprendizado de máquina.
+
+<!--Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).-->
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
+ - [Thiago William Pires Sousa](https://github.com/tizord)
+<!-- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
  - ...
@@ -12,6 +14,18 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
 ---
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
+-->
+## Justificativa
+
+O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas. Com esse conjunto é possível aprender e testas alguns algoritmos supervisionados afim de verificar sua acurácia na predição.
+
+## Metodologia
+
+O projeto será desenvolvido utilizando a metodologia CRISP-DM.
+
+## Resultados Esperados
+
+Espera-se poder avaliar alguns algorítmos de aprendizado supervisiado e determinar quais são os mais indicados para esse conjunto de dados.
 
 ## Funcionalidades
 
@@ -20,7 +34,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
  - Configuração para criação de aplicação `streamlit`;
  - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
  - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
-
+<!-->
 ## Instruções
 
 ### Requisitos
@@ -84,6 +98,7 @@ Para mais informações sobre os comandos do Poetry, visite a [documentação of
 
 Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
 
+-->
 
 ### Organização de diretórios
 
