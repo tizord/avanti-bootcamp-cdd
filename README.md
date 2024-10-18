@@ -34,7 +34,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
  - Configuração para criação de aplicação `streamlit`;
  - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
  - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
-<!-->
+<!--
 ## Instruções
 
 ### Requisitos
