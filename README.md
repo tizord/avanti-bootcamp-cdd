@@ -17,7 +17,7 @@ Este projeto tem como objetivo prever os sobreviventos do Titanic afim de estuda
 -->
 ## Justificativa
 
-O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas. Com esse conjunto é possível aprender e testas alguns algoritmos supervisionados afim de verificar sua acurácia na predição.
+O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas. Com esse conjunto é possível aprender e testar alguns algoritmos supervisionados afim de verificar sua acurácia na predição.
 
 ## Metodologia
 
@@ -98,7 +98,7 @@ Para mais informações sobre os comandos do Poetry, visite a [documentação of
 
 Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
 
--->
+
 
 ### Organização de diretórios
 
@@ -126,3 +126,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+-->
