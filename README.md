@@ -19,6 +19,8 @@ Este projeto tem como objetivo prever os sobreviventos do Titanic afim de estuda
 
 O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas. Com esse conjunto é possível aprender e testar alguns algoritmos supervisionados afim de verificar sua acurácia na predição.
 
+<img src='docs/assets/images/napkin-selection.png'>
+
 ## Metodologia
 
 O projeto será desenvolvido utilizando a metodologia CRISP-DM.
