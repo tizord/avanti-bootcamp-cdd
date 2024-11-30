@@ -1,6 +1,6 @@
 # Análise do conjunto de dados do Titanic
 
-Este projeto tem como objetivo prever os sobreviventos do Titanic afim de estudar conceitos básicos de aprendizado de máquina.
+Este projeto tem como objetivo testar 4 diferentes algoritmos de classificação na previsão dos sobreviventos do conjunto de dados do Titanic, afim de compará-los.
 
 <!--Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).-->
 
@@ -17,7 +17,7 @@ Este projeto tem como objetivo prever os sobreviventos do Titanic afim de estuda
 -->
 ## Justificativa
 
-O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas. Com esse conjunto é possível aprender e testar alguns algoritmos supervisionados afim de verificar sua acurácia na predição.
+O conjunto de dados do Titanic é um conjunto famoso para o estudo dos algoritmos supervisionados de aprendizado de máquinas na tarefa de classificação. Com esse conjunto de dados é possível comparar esses algoritmos, bem como estudar e entender todo o processo de uma tarefa de aprendizado de máquina.
 
 <img src='docs/assets/images/napkin-selection.png'>
 
@@ -27,7 +27,7 @@ O projeto será desenvolvido utilizando a metodologia CRISP-DM.
 
 ## Resultados Esperados
 
-Espera-se poder avaliar alguns algorítmos de aprendizado supervisiado e determinar quais são os mais indicados para esse conjunto de dados.
+Espera-se poder avaliar alguns algorítmos de aclassificação e determinar quais são os mais indicados para esse conjunto de dados, de acordo com suas métricas..
 
 ## Funcionalidades
 
